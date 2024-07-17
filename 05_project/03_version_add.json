@@ -1,0 +1,48 @@
+{
+    "id": 0,
+    "project": {
+        "id": 199381,
+        "projectKey": "TEST",
+        "name": "test",
+        "chartEnabled": true,
+        "subtaskingEnabled": false,
+        "projectLeaderCanEditProjectLeader": false,
+        "useWikiTreeView": true,
+        "textFormattingRule": "markdown",
+        "archived": false
+    },
+    "type": 18,
+    "content": {
+        "id": 100,
+        "number": 100,
+        "summary": "test pull request",
+        "description": "test description",
+        "base": "master",
+        "branch": "develop",
+        "diff": null,
+        "assignee": null,
+        "comment": null,
+        "changes": [],
+        "issue": null,
+        "repository": {
+            "id": 100,
+            "name": "test repository",
+            "description": "test description"
+        }
+    },
+    "notifications": [],
+    "createdUser": {
+        "id": 513624,
+        "userId": null,
+        "name": "SUMIDA Yuki",
+        "roleType": 1,
+        "lang": "ja",
+        "mailAddress": null,
+        "nulabAccount": {
+            "nulabId": "Ou6LQSyXcFk1JLyZEONon25vgKJhHJxErRhteEjRvdxJGvdyym",
+            "name": "SUMIDA Yuki",
+            "uniqueId": "sumidayuki"
+        }
+    },
+    "created": "2024-04-22T02:38:10Z"
+}
