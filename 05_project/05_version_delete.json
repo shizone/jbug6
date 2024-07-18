@@ -11,27 +11,13 @@
         "textFormattingRule": "markdown",
         "archived": false
     },
-    "type": 20,
+    "type": 24,
     "content": {
-        "id": 100,
-        "number": 100,
-        "summary": "test pull request",
-        "description": "test description",
-        "base": "master",
-        "branch": "develop",
-        "diff": null,
-        "assignee": null,
-        "comment": {
-            "id": 100,
-            "content": "test comment"
-        },
-        "changes": [],
-        "issue": null,
-        "repository": {
-            "id": 100,
-            "name": "test repository",
-            "description": "test description"
-        }
+        "id": 300,
+        "name": "test version",
+        "start_date": "2016-01-01",
+        "reference_date": "2016-02-01",
+        "description": "test description"
     },
     "notifications": [],
     "createdUser": {
@@ -47,5 +33,5 @@
             "uniqueId": "sumidayuki"
         }
     },
-    "created": "2024-04-22T02:38:17Z"
+    "created": "2024-04-22T02:38:27Z"
 }

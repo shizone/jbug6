@@ -11,38 +11,17 @@
         "textFormattingRule": "markdown",
         "archived": false
     },
-    "type": 19,
+    "type": 23,
     "content": {
-        "id": 100,
-        "number": 100,
-        "summary": "pull request",
-        "description": "description",
-        "base": "master",
-        "branch": "develop",
-        "diff": null,
-        "assignee": null,
-        "comment": {
-            "id": 100,
-            "content": "update"
-        },
+        "id": 300,
+        "name": "test version updated",
         "changes": [
             {
-                "field": "summary",
-                "new_value": "pull request",
-                "old_value": "test pull request"
-            },
-            {
-                "field": "description",
-                "new_value": "description",
-                "old_value": "test description"
+                "field": "name",
+                "new_value": "test version updated",
+                "old_value": "test version old"
             }
-        ],
-        "issue": null,
-        "repository": {
-            "id": 100,
-            "name": "test repository",
-            "description": "test description"
-        }
+        ]
     },
     "notifications": [],
     "createdUser": {
@@ -58,5 +37,5 @@
             "uniqueId": "sumidayuki"
         }
     },
-    "created": "2024-04-22T02:38:13Z"
+    "created": "2024-04-22T02:38:24Z"
 }
