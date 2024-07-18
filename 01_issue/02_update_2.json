@@ -1,0 +1,121 @@
+{
+  "id": 310947917,
+  "project": {
+    "id": 199381,
+    "projectKey": "TEST",
+    "name": "test",
+    "chartEnabled": true,
+    "subtaskingEnabled": false,
+    "projectLeaderCanEditProjectLeader": false,
+    "useWikiTreeView": true,
+    "textFormattingRule": "markdown",
+    "archived": false
+  },
+  "type": 2,
+  "content": {
+    "id": 44058681,
+    "key_id": 1,
+    "summary": "テスト",
+    "description": "aaaaa\\nbbbbb\\nddddd\\neeeee",
+    "issueType": {
+      "id": 1074903,
+      "projectId": 199381,
+      "name": "タスク",
+      "color": "#7ea800",
+      "displayOrder": 0
+    },
+    "resolution": null,
+    "priority": { "id": 3, "name": "中" },
+    "status": { "id": 3, "name": "処理済み" },
+    "assignee": {
+      "id": 513624,
+      "userId": "*Xhq9m2xASY",
+      "name": "SUMIDA Yuki",
+      "roleType": 255,
+      "lang": "ja"
+    },
+    "category": [{ "id": 544932, "name": "cat1", "displayOrder": 2147483646 }],
+    "versions": [
+      {
+        "id": 412732,
+        "projectId": 199381,
+        "name": "m1",
+        "description": null,
+        "startDate": null,
+        "releaseDueDate": null,
+        "archived": false,
+        "displayOrder": 0
+      }
+    ],
+    "milestone": [
+      {
+        "id": 412732,
+        "projectId": 199381,
+        "name": "m1",
+        "description": null,
+        "startDate": null,
+        "releaseDueDate": null,
+        "archived": false,
+        "displayOrder": 0
+      }
+    ],
+    "startDate": "2024-07-18",
+    "dueDate": "2024-08-30",
+    "estimatedHours": 4,
+    "actualHours": 4,
+    "parentIssueId": null,
+    "customFields": [],
+    "attachments": [],
+    "shared_files": [],
+    "externalFileLinks": [],
+    "diff": "3,4c3\\n<ddddd\\n<eeeee---\\n>ccccc",
+    "comment": { "id": 237752726, "content": "comment\\naaaaa\\nbbbbb" },
+    "changes": [
+      {
+        "field": "description",
+        "new_value": "aaaaa\\nbbbbb\\nddddd\\neeeee",
+        "old_value": "aaaaa\\nbbbbb\\nccccc",
+        "type": "standard"
+      },
+      {
+        "field": "status",
+        "new_value": "3",
+        "old_value": "2",
+        "type": "standard"
+      },
+      {
+        "field": "limitDate",
+        "new_value": "2024-08-30",
+        "old_value": "2024-07-31",
+        "type": "standard"
+      },
+      {
+        "field": "estimatedHours",
+        "new_value": "4",
+        "old_value": "",
+        "type": "standard"
+      },
+      {
+        "field": "actualHours",
+        "new_value": "4",
+        "old_value": "",
+        "type": "standard"
+      }
+    ]
+  },
+  "notifications": [],
+  "createdUser": {
+    "id": 513624,
+    "userId": null,
+    "name": "SUMIDA Yuki",
+    "roleType": 1,
+    "lang": "ja",
+    "mailAddress": null,
+    "nulabAccount": {
+      "nulabId": "Ou6LQSyXcFk1JLyZEONon25vgKJhHJxErRhteEjRvdxJGvdyym",
+      "name": "SUMIDA Yuki",
+      "uniqueId": "sumidayuki"
+    }
+  },
+  "created": "2024-07-18T05:40:04Z"
+}
